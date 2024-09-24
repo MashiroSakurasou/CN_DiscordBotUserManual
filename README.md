@@ -1,6 +1,6 @@
 # Discord机器人 荻原沙优 用户指南
 > [!TIP]
-> For user manual English, click [English user manual](https://github.com/MashiroSakurasou/EN_DiscordBotUserManual).
+> For user manual in English, click [here](https://github.com/MashiroSakurasou/EN_DiscordBotUserManual).
 ## 一个功能丰富、可定制的音乐和管理 Discord 机器人。
 点击[这里](https://discord.com/oauth2/authorize?client_id=1240521816582262845&permissions=8&integration_type=0&scope=bot)将机器人邀请到你的服务器。
 ## 斜杠命令的使用方法
